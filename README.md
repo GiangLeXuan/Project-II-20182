@@ -14,12 +14,12 @@ Input
 - +) Độ ẩm
 - +) Độ ẩm đất.
 Output
-+) Relay điều khiển bơm.
-+) Relay điều khiển đèn.
-Thông tin cần hiển thị lên webserver:
-+) Bơm được bật.
-+) Đèn được bật.
-+) Chế độ on - off.
+- +) Relay điều khiển bơm.
+- +) Relay điều khiển đèn.
+ Thông tin cần hiển thị lên webserver:
+- +) Bơm được bật.
+- +) Đèn được bật.
+- +) Chế độ on - off.
  Kết quả:
  - Mạch in đúng
  - Quá trình in và kiểm tra nóng lạnh hoàn tất.
