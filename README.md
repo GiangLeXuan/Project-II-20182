@@ -3,7 +3,8 @@ MSSV: 20151091
 Lớp:Điện tử 09-K60
 - ĐỀ TÀI: Thiết kế hệ thống tưới nước tự động trong nông nghiệp
 ===================================================================
-Công cụ:
+- Công cụ:
+
 - Arduino IDE có thể lập trình cho ESP8266.
 - Thư viện blynk.
 - Thư viện SimpleTimer.
@@ -15,9 +16,11 @@ Công cụ:
 - +) Nhiệt độ
 - +) Độ ẩm
 - +) Độ ẩm đất.
+
 - Output
 - +) Relay điều khiển bơm.
-- +) Relay điều khiển đèn. 
+- +) Relay điều khiển đèn.
+
 - Thông tin cần hiển thị lên webserver:
 - +) Bơm được bật.
 - +) Đèn được bật.
