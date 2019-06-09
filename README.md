@@ -1,7 +1,7 @@
 Họ và tên : Lê Xuân Giang
 MSSV: 20151091
 Lớp:Điện tử 09-K60
-ĐỀ TÀI: Thiết kế hệ thống tưới nước tự động trong nông nghiệp
+- ĐỀ TÀI: Thiết kế hệ thống tưới nước tự động trong nông nghiệp
 Công cụ:
 - Arduino IDE có thể lập trình cho ESP8266.
 - Thư viện blynk.
@@ -10,9 +10,9 @@ Công cụ:
 - Thư viện Adafruit
 Input
 - Các thông số của cảm biến:
-+) Nhiệt độ
-+) Độ ẩm
-+) Độ ẩm đất.
+- +) Nhiệt độ
+- +) Độ ẩm
+- +) Độ ẩm đất.
 Output
 +) Relay điều khiển bơm.
 +) Relay điều khiển đèn.
